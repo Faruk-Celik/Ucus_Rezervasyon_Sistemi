@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proje2 uçuş rez sistemi", "proje2 uçuş rez sistemi\proje2 uçuş rez sistemi.csproj", "{1BC8240D-FE19-4A90-B512-C5F95162CE04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BC8240D-FE19-4A90-B512-C5F95162CE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BC8240D-FE19-4A90-B512-C5F95162CE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BC8240D-FE19-4A90-B512-C5F95162CE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BC8240D-FE19-4A90-B512-C5F95162CE04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9F1F626-4FC3-4D03-B590-57A944E7BD94}
+	EndGlobalSection
+EndGlobal
